@@ -1,0 +1,56 @@
+Term, Definition
+Apache, MLlib Language that makes machine learning scalable
+Apache, Spark A general-purpose cluster-computing framework allowingyou to process data using compute clusters
+API, Application programming interface allows communicationbetween two pieces of software
+Caffe, A deep learning algorithm repository built with C++with Python and Matlab bindings
+CDLA, Community Data License Agreement
+Classification models, Are used to predict whether some information or databelongs to a category (or “class”)
+CLI, Command line interface
+C++, A general-purpose programming language. It is an extension of the C programming language or C with Classes
+Data set, A structured collection of data
+Deeplearning4, Language for deep learning
+Deep learning, A specialized type of machine learning. It refers to ageneral set of models and techniques that loosely emulate the way the human brain solves a wide range of problems
+ELT, Extract Load Transform
+ETL, Extract Transform and Load
+FSF, Free Software Foundation
+ggplot2, A popular library for data visualization in R
+GPU, Graphics processing units
+Git, De facto standard for code asset management, also knownas version management or version control. Around Gitemerged several services, GitHub, and GitLab
+Hadoop, Application of Java which manages data processing andstorage for big data applications running in clusteredsystems
+Java, Object-oriented programming language
+Java-ML, Language for machine learning
+JVM, Java Virtual Machine
+JavaScript, A general-purpose language that extended beyond the browser with the creation of Node.js and other serverside approaches
+Julia, A language for high-performance numerical analysis andcomputational science
+Jupyter Notebook, A browser-based application that allows you to createand share documents containing code/ equations/ visualizations/ narrative text links and more
+Jupyter Lab, A browser-based application that allows you to accessmultiple Jupyter Notebook files/ other code and datafiles
+Kernel, An execution environment for the different programming languages
+Lattice, It is a high-level data visualization library that canhandle graphics without customizations
+Library, A collection of functions and methods that allow you toperform many actions without writing the code
+Leaflet, Used for creating interactive plots
+ML, Machine learning uses algorithms – also known as “models” - to identify patterns in the data
+Matplotlib, package for data visualization
+Model training, The process by which the model learns patterns fromdata
+MNIST, Modified National Institute of Standards and TechnologyMongoDB A NoSQL database for big data management that was builtwith C++
+NLP, Natural Language Processing
+NLTK, Natural Language Toolkit
+NumPy, Libraries are based on arrays and matrices, allowingyou to apply mathematical functions to the arrays
+OSI, Open-Source Initiative
+PaaS, Platform as a service
+Pandas, A library that offers data structures and tools foreffective data cleaning/ manipulation and analysisPlotly Used for web-based data visualizations that can bedisplayed or saved as individual HTML files
+PMML, Predictive Model Markup Language
+Python, A high-level/ general-purpose programming language. Ithas a large/ standard library that provides tools suited to many different tasks/ including Databases/ Automation/ Web scraping/ Text processing/ Image processing/ Machine learning and Data analytics
+R, A statistical computing language
+Regression models, Are used to predict a numeric (or “real”) value
+Reinforcement Learning, Loosely based on the way human beings and other organisms learn.
+REST, RE stands for Representational/ the S stands for State/ and the T stands for Transfer
+RStudio, Unifies programming/ execution/ debugging/ remote dataaccess/ data exploration/ and visualization into onetool
+SaaS, Software as a service
+Scala, Is a combination of scalable and language. A generalpurpose programming language that provides support forfunctional programming and is a strong static typesystem
+Spyder, Integrates code/ documentation/ and visualizations/among others/ into a single canvas
+SQL, Structured Query Language that is non-procedural/ used for querying and managing data
+Supervised Learning, A learning in which a human provides input data andcorrect outputs
+TensorFlow, Deep Learning library for dataflow that was built with C++
+Unsupervised Learning, The data is not labeled by a human. Examples are Clustering models used to divide each record of a dataset into one of a similar group
+Watson Studio, A fully integrated development environment for datascientists
+Weka, Language for data mining
